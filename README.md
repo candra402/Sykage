@@ -1,3 +1,3 @@
 {
-  "keybre": "ZynxzooXx09"
+  "keybre": "ZynxzXX9"
 }
